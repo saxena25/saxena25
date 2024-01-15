@@ -1,4 +1,4 @@
-                                   👋 Hello World, I'm Hrithik Saxena
+                                      👋 Hello World, I'm Hrithik Saxena
 
 Passionate about crafting seamless and impactful web experiences, I'm on a journey to become a versatile Full Stack Developer.
 My goal is to bring ideas to life by combining my skills in front-end and back-end development.
