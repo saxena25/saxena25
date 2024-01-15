@@ -12,7 +12,7 @@ My goal is to bring ideas to life by combining my skills in front-end and back-e
 
 - [LinkedIn](https://www.linkedin.com/in/hrithik-saxena-15b273168/)
 - [Portfolio] Coming Soon...
-- [Email](saxenahrithik2000@gmail.com)
+- saxenahrithik2000@gmail.com
 
 🌟 Let's Code Together!
 
