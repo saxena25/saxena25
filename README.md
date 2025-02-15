@@ -46,6 +46,11 @@ My goal is to bring ideas to life by combining my skills in front-end and back-e
       <br>
       BOOTSTRAP
     </td>
+    <td style="text-align: center;">
+      <img src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="image" style="width: 100px;">
+      <br>
+      TAILWIND
+    </td>
   </tr>
 </table>
 
